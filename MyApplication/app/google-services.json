@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "449160472883",
+    "firebase_url": "https://eswatchtasahayak.firebaseio.com",
+    "project_id": "eswatchtasahayak",
+    "storage_bucket": "eswatchtasahayak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449160472883:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449160472883-dn4rl1avkgt1tt2pbqhqbuv3top3oe6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdDh4NPeXmdZL1lBaIx9uh_Cbhmcw0cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449160472883:android:f7aa0cc73c883628",
+        "android_client_info": {
+          "package_name": "com.tomtom.online.sdk.samples.util"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449160472883-dn4rl1avkgt1tt2pbqhqbuv3top3oe6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGdDh4NPeXmdZL1lBaIx9uh_Cbhmcw0cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
